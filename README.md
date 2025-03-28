@@ -1,2 +1,2 @@
-# free-llm-talks
-I ask something from llm without logging in and do not want to loose the response
+## free-llm-talks
+I ask something from llm without signing in and do not want to lose the response
